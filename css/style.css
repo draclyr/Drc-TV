@@ -118,6 +118,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-left: 2rem;
 }
 
 .dropdown-menu .highlight {
@@ -232,7 +233,8 @@ header {
     }
 
     .cards {
-        width: 60vw;
+        width: 55vw;
+        margin-left: 6.5rem;
     }
 
     .panel {

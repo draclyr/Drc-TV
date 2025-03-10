@@ -111,14 +111,14 @@
 
     .main .boxs {
         position: relative;
-        width: 14rem;
-        height: 20.8rem;
+        width: 10rem;
+        height: 16.8rem;
         border-radius: 10px;
     }
 
     .imgBox img {
-        width: 17rem;
-        height: 24rem;
+        width: 13rem;
+        height: 20rem;
         object-fit: cover;
         resize: both;
         border-radius: 10px;
